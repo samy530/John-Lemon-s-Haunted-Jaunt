@@ -3,11 +3,11 @@ Ce projet est une version enrichie et personnalisée du jeu "John Lemon's Haunte
 
 👨‍💻 Équipe de développement
 -
-Samy
-Slimane (https://github.com/slimane-hll)
-Amar (https://github.com/AmarMeb)
-Abdennour
-Sadek
+-Samy
+-Slimane (https://github.com/slimane-hll)
+-Amar (https://github.com/AmarMeb)
+-Abdennour
+-Sadek
 
 🧠 Objectif pédagogique
 -
