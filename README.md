@@ -1,13 +1,14 @@
 Bienvenue sur le dépôt GitHub de notre projet de réalité virtuelle réalisé dans le cadre du module DEVXPVR’2025 (année universitaire 2024/2025).
 Ce projet est une version enrichie et personnalisée du jeu "John Lemon's Haunted Jaunt", développé avec Unity.
 
-👨‍💻 Équipe de développement
--
--Samy
--Slimane (https://github.com/slimane-hll)
--Amar (https://github.com/AmarMeb)
--Abdennour
--Sadek
+## 👨‍💻 Membres du projet
+
+- Samy  
+- Slimane – [GitHub](https://github.com/slimane-hll)  
+- Amar – [GitHub](https://github.com/AmarMeb)  
+- Abdennour  
+- Sadek
+
 
 🧠 Objectif pédagogique
 -
