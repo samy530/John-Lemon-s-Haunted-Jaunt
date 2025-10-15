@@ -7,7 +7,7 @@ Ce projet est une version enrichie et personnalisée du jeu "John Lemon's Haunte
 - Slimane H – [GitHub](https://github.com/slimane-hll)  
 - Amar M – [GitHub](https://github.com/AmarMeb)  
 - Abdennour A 
-- Sadek I
+- Sadek I    [GitHub](https://github.com/sadekiskounen-ctrl) 
 
 ## 🧠 Objectif pédagogique
 
